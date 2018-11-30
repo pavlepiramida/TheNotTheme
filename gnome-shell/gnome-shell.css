@@ -1,0 +1,10 @@
+@import url("/usr/share/themes/Adapta/gnome-shell/gnome-shell.css");  
+
+stage {
+    font-family: "Nimbus Sans",sans-serif;
+    font-size: 10pt;
+    color: #ffffff;
+}
+#panel{
+    font-weight: 0;
+}
